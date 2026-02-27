@@ -28,5 +28,3 @@ I focus on alert triage, log analysis, incident investigation, and practical rem
 1. Read the short one-line summary above.  
 2. Open the SOC Alert Triage repo (Splunk project) — it demonstrates Tier-1 workflow end-to-end.  
 3. Check the Incident Response and SQL analysis repos for other analyst skills.
-
-**Portfolio link for applications:** `https://github.com/RCiorbu/cybersecurity-portfolio`
